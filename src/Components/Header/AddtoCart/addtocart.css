@@ -1,0 +1,91 @@
+.title-tag{
+    width: 70%;
+    margin: 10px;
+    height: 0px;
+}
+
+#title-id{
+    position: relative;
+    left: 35px;
+    bottom: 45px;
+}
+
+.bt-title{
+    position: relative;
+    float: right;
+    bottom: 85px;
+}
+
+.prod-tag{
+    width: 70%;
+    margin-left: 10px;
+    margin-top: -30px;
+    height: 200px;
+}
+
+#prod-img{
+    width: 150px;
+    position: relative;
+    bottom: 40px;
+}
+
+#prod-name{
+    font-size: 1.6rem;
+    font-weight: 500;
+    position: relative;
+    bottom: 80px;
+    
+}
+#prod-aprice{
+    font-size: 2rem;
+    font-weight: 500;
+    float: right;
+    position: relative;
+    right: 210px;
+    bottom: 35px;
+}
+#prod-oprice{
+    font-size: 1.8rem;
+    color: #666;
+    float: right;
+    position: relative;
+    right: 15px;
+    bottom: 33px;
+}
+#prod-dis-percent{
+    font-size: 1.6rem;
+    color: #09ac63;
+    font-weight: 500;
+    float: right;
+    position: relative;
+    left: 145px;
+    bottom: 32px;
+}
+
+.del-tag{
+    width: 25%;
+    margin: 10px;
+    position: absolute;
+    left: 72%;
+    top: 135px;
+    height: 330px;
+}
+
+
+.bt-add{
+    width: 85px;
+    position: relative;
+    left: 280px;
+    bottom: 85px;
+}
+
+.bt-remove{
+    position: relative;
+    left: 275px;
+    bottom: 85px;
+}
+
+.bt-save{
+    position: relative;
+    left: 400px;
+}

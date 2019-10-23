@@ -1,0 +1,45 @@
+.img-size {
+    width: 100px;
+    height: 120px;
+    padding: 15px 3px 3px 30px
+}
+
+.img-size img {
+    height: 87px;
+    padding-top: 6px;
+}
+
+.txt-align{
+    position: absolute;
+    color: #F9D342;
+    left: 37%;
+}
+
+.bt-login{
+    width: 100px;
+    position: absolute; 
+    left: 92%;
+    top: 5%;
+}
+
+.search-box{
+    position: absolute;
+    left: 86%;
+    top: 40%;
+}
+
+.bt-group-align{
+    left: 70%;
+    top: 45px;  
+}
+
+.bt-cart{
+    position: absolute;
+    left: 83%;
+    top: 10px;
+    width: 115px;
+}
+
+
+
+

@@ -1,0 +1,1 @@
+export {tabs} from './HeaderTabs/HeaderTabsActions'

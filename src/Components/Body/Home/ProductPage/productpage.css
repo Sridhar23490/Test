@@ -1,0 +1,39 @@
+.product-tag{
+    width: 68%; 
+    margin: 20px;  
+    min-height: 600px; 
+}
+
+/* #image-size{
+    min-width: 30%;
+    min-height: 400px;       
+} */
+
+/* .img-tag{
+    min-width: 30%;
+    min-height: 400px;  
+} */
+
+.description-tag{
+    position: absolute;
+    left: 35%;
+}
+
+.delivery-tag{
+    position: absolute;
+    left: 72%;
+    top: 155px;
+    width: 25%;
+    min-height: 600px;
+}
+
+.bt-buy{
+    position: relative;
+    top: 80px;
+    right: 65px;
+    width: 425px;
+}
+
+#txt-align{
+    width:400px;
+}
